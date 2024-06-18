@@ -93,7 +93,7 @@ def load_market_data(file_path):
 def main():
     """主函数，获取股票数据并保存"""
     # 加载市场数据
-    market_data = load_market_data('markets-y2.json')
+    market_data = load_market_data('markets-day.json')
 
     # 遍历市场数据
     for market_info in market_data:
