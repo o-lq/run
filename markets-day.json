@@ -26,7 +26,7 @@
     {
         "id": 4,
         "market": "jp",
-        "file_name": "jp-yahoo231208.txt",
+        "file_name": "jp-yahoo.txt",
         "interval": "1d",
         "period": "max",
         "save_format": "csv"
