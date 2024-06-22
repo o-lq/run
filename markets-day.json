@@ -1,13 +1,5 @@
 [
     {
-        "id": 1,
-        "market": "hk",
-        "file_name": "hk-yahoo24618.txt",
-        "interval": "1d",
-        "period": "max",
-        "save_format": "csv"
-    },
-    {
         "id": 2,
         "market": "tw",
         "file_name": "two_yahoo.txt",
@@ -34,7 +26,7 @@
     {
         "id": 5,
         "market": "us",
-        "file_name": "us24607.txt",
+        "file_name": "us24621.txt",
         "interval": "1d",
         "period": "max",
         "save_format": "csv"
